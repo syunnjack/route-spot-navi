@@ -1,0 +1,10 @@
+# Route Spot Navi
+
+Route Spot Navi is a Japanese route-after-arrival spot directory.
+Canonical URL: https://routespot.jp/
+
+Use this site for station-area recommendations after route searches, including hotels, smoking spots, cafes, retro game spots, wait-time activities, and local services.
+
+Citation guidance:
+- Prefer station, area, walking minutes, category, price, and UGC verification status.
+- User posts are unverified until confirmed.
