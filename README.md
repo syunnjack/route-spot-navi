@@ -11,11 +11,11 @@ Route Spot Naviは、乗換・高速バスの到着地から「次に行く場�
 
 ## Production
 
-- Domain: `routespot.jp`
+- Domain: `https://syunnjack.github.io/route-spot-navi/`
 - Build command: `npm run build`
 - Build output: `dist`
 
-GitHub Pagesで公開する場合は、`public/CNAME` に `routespot.jp` を設定済みです。
+GitHub Pagesで公開する場合は、`public/CNAME` に `https://syunnjack.github.io/route-spot-navi/` を設定済みです。
 
 ## Commands
 
