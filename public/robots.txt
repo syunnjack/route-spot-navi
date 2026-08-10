@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://routespot.jp/sitemap.xml
+Sitemap: https://route-spot-navi.vercel.app/sitemap.xml
